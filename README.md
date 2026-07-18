@@ -1,1 +1,1 @@
-# ibm-data-analyst-capsotme-project-stack-overflow-anlaysis
+# ibm-data-analyst-capstone-project-stack-overflow-anlaysis

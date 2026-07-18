@@ -162,7 +162,7 @@ The project includes:
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/IBM-StackOverflow-Data-Analysis.git
+git clone https://github.com/chidochari/IBM-StackOverflow-Data-Analysis.git
 ```
 
 Navigate to the project folder:
@@ -224,7 +224,7 @@ The project successfully demonstrates the complete data analysis lifecycle by tr
 
 ## Author
 
-**Chido Chari**
+Chido Chari
 
 - BCom Economics and Finance
 - Postgraduate Diploma in Risk Management
